@@ -1,8 +1,7 @@
 FlappyBirdProject/*.iml
 FlappyBirdProject/.gradle
 FlappyBirdProject/local.properties
-FlappyBirdProject/idea/workspace.xml
-FlappyBirdProject/.idea/libraries
+FlappyBirdProject/idea
 FlappyBirdProject/.DS_Store
 FlappyBirdProject/build
 FlappyBirdProject/captures
